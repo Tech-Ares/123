@@ -1,6 +1,6 @@
 # Configure the AWS provider
 provider "aws" {
-  region = "us-west-2"  # 你可以根据需求更改 AWS 区域
+  region = "us-east-2"  # 你可以根据需求更改 AWS 区域
 }
 
 # Create a security group to allow inbound SSH access
